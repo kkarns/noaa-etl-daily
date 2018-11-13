@@ -21,6 +21,7 @@ namespace NoaaEtlDaily
         /// 
         /// An incremental daily load ETL program for daily NOAA radiation data 
         /// Note: Full loads are handled by another program in bulk.
+        /// Note: the author has issues
         ///  
         /// </summary>
         /// <param name="args"></param>
